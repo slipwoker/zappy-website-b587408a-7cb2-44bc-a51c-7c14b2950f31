@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: thebailguy@yahoo.com
+- Phone: 5622003862
+- Phone (tel): tel:5622003862
+- Address: 13329 Penn St, Whittier, California , 90602, United States 
 
 ### Contact form
 - URL: https://example.com/contact
