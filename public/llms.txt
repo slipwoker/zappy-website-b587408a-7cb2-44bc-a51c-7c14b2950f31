@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://davidthebailguy-com-b587408a.zappy5.app
+https://example.com
 Need urgent bail bonds near me? DavidTheBailGuy.Com offers affordable, 24-hour bail bond services to get your loved one home fast. Call now for immediate help!
 
 ### Services
-https://davidthebailguy-com-b587408a.zappy5.app/services
+https://example.com/services
 Explore how to bail someone out of jail with our affordable bail bond services. From warrant checks to payment plans, we make release simple. Start here.
 
 ### About
-https://davidthebailguy-com-b587408a.zappy5.app/about
+https://example.com/about
 Facing jail is stressful. Learn why families trust DavidTheBailGuy.Com for honest, fast, and affordable bail bond services when they need them most. Read our story.
 
 ### Contact
-https://davidthebailguy-com-b587408a.zappy5.app/contact
+https://example.com/contact
 Don&#39;t wait. Contact our 24-hour bail bondsman for fast answers on how to bail someone out of jail. Affordable bail bond services are one call away. Reach out now.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://davidthebailguy-com-b587408a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://davidthebailguy-com-b587408a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://davidthebailguy-com-b587408a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://davidthebailguy-com-b587408a.zappy5.app/contact
-- Endpoint: https://davidthebailguy-com-b587408a.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Legal Services / Bail Bonds
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://davidthebailguy-com-b587408a.zappy5.app/sitemap.xml
-- Robots: https://davidthebailguy-com-b587408a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://davidthebailguy-com-b587408a.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
